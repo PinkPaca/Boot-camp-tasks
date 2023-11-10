@@ -1,0 +1,5 @@
+user_name=input("Enter your name:")
+user_age=input("Enter your age:")
+print(user_name+" "+user_age)
+print(user_name+" is "+user_age+" years old!")
+print("Hello World!")
